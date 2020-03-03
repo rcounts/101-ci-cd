@@ -7,6 +7,7 @@ function cleanObject(obj) {
             }
         }
     }
+    console.log("YO")
     return obj;
 };
 
